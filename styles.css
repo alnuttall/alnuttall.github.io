@@ -5,6 +5,10 @@ body {
     text-align: left;
     column-count: 2;
 }
+img {
+    width: 286;
+    height: 224;
+}
 h1 {
     text-align: center;
 }    
