@@ -1,0 +1,12 @@
+body {
+    font-family: serif;
+    color: black;
+    background-color: skyblue;
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+p {
+    color: gray;
+}
