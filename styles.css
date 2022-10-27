@@ -1,13 +1,19 @@
+sub {
+    column-count: 1;
+    text-align: center;
+}
 body {
     font-family: serif;
     color: black;
-    background-color: #f8f6e7;
+    background-color: #f9f8f2;
     text-align: left;
     column-count: 2;
 }
 img {
-    width: 286;
-    height: 224;
+    align-content: right;
+    max-width:60%;
+    max-height:60%;
+    border: 2px solid rgb(1, 1, 1);
 }
 h1 {
     text-align: center;
